@@ -17,7 +17,7 @@ h1 {
   font-size: 30px;
 }
 
-a {
+header a {
   text-decoration: none;
   padding: 10px;
 }
@@ -34,13 +34,16 @@ a.branco:hover {
 main {
   width: 900px;
   margin: 10px auto;
-  position: relative;
+}
+.post-area {
+  width: 600px;
+  padding: 10px;
+  margin-bottom: 10px;
+  float: left;
 }
 .noticia {
   background: white;
-  width: 500px;
-  margin: 10px;
-  padding: 10px;
+  padding-left: 5px;
 }
 
 h2 {
@@ -53,26 +56,29 @@ h2 {
   padding-left: 7px;
 }
 img {
-  width: 490px;
-  margin: 10px 10px 0 5px;
+  width: 550px;
+  margin-top: 10px;
+  margin-left: 18px;
 }
 p {
-  width: 490px;
+  width: 550px;
   text-align: justify;
+  padding: 10px 15px;
 }
 
 a.veja-mais {
   color: #f7b600;
   font-size: 16px;
+  margin-bottom: 5px;
+  padding-left: 15px;
 }
 
 .post-recent {
-  position: absolute;
-  top: 1px;
-  right: 20px;
+  float: right;
   background: white;
-  width: 300px;
+  width: 230px;
   padding: 10px;
+  margin-bottom: 5px;
 }
 h3 {
   background: #ccc;
@@ -87,23 +93,16 @@ p.post {
 .post-recent a {
   margin: 0;
 }
-#categorias {
-  position: absolute;
-  top: 130px;
-  right: 20px;
-  background: white;
-  width: 300px;
-  padding: 10px;
-}
 
-#categorias .veja-mais {
+.veja-mais {
   display: block;
 }
 
 footer {
   text-align: center;
   background: gray;
-  width: 900px;
+  width: 860px;
   margin: 0 auto;
   padding: 10px;
+  clear: both;
 }

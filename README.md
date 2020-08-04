@@ -1,27 +1,36 @@
-# TecBlog
+<p align="center"> 
+  <img src="https://imgur.com/tFOq7Z5.jpg">
+</p>
+
+<h1 align="center">
+ 🚀 TECBLOG 🚀
+</h1>
+
+<h3 align="center"> HTML | CSS </h3>
 
 ---
 
-O tecblog é um blog de notícias fictícios, criando como desafio de fixação de HTML e CSS, focando muito em posicionamento de elementos de elementos.
+### 🤩 Este repositório representa a fixação do conteúdo desenvolvido durante a segunda seção do curso de desenvolvimento web do Jamilto Jamilton Damasceno. </br> </br>
+
+#### :computer: HTML - Conhecimento prático
+- Html semâtico;
+- Cabeçalhos;
+- Paragráfos;
+- Imagens
+- Links.
+
+#### :computer: CSS - Conhecimento prático
+- Utilização de class e Ids;
+- Bordas;
+- Importção do CSS;
+- Elementos flutuantes;
+- Possiocionamento dos elementos flutuantes
+- Sobrepossição dos elementos flutuantes;
+- Formatação de links.
+
 
 ---
 
-![](https://i.picasion.com/pic90/bf891a84439385826fe2b538b119f847.gif)
-
----
-
-## :computer: TECH
-
-#### :arrow_right: HTML
-
-#### :arrow_right: CSS
-
-Esse pequeno projeto foi para a melhor fixação de sobre o conteudo de HTML e CSS focado no posicionamento dos elementos dentro da página
-
----
-
-## About
-
-Esse projeto foi desenvolvido durante o curso de desenovlimento Web do Jamilto Damasceno disponível na udemy.
-
----
+<h4 align="center">
+Felipe Moura
+</h4>
